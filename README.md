@@ -13,8 +13,10 @@ Minimal startpage based on several startpages I saw on [r/startpages](https://ww
 
 ## Live Demo
 
+[https://linksake.github.io/startpage/](https://linksake.github.io/startpage/)
+
 ## TODOs
 
 - Make the art displayed random, haven't found an existing db or api of ascii art yet.
-
+- Make the mobile layout nicer
 
