@@ -26,6 +26,10 @@ ul {
   list-style: square;
 }
 
+a {
+  color: whitesmoke;
+}
+
 a:hover {
   color: antiquewhite;
 }
